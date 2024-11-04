@@ -2,7 +2,7 @@
 
 When it comes to minimizing costs in a business, what we need is an optimized model, so that the model is as effective as possible to achieve the business objective it has been built for.
 
-The main techniques of optimizing hyper-parameters of a model are **random search**, **grid search**, and **Bayesian search**. 
+The main techniques of tuning hyperparameters of a model for optimization are **random search**, **grid search**, and **Bayesian search**. 
 Grid search systematically explores all combinations within a predefined grid, while random search randomly samples hyperparameters to cover a range of possibilities. An illustrative image is given below.
 
 ![1](https://github.com/user-attachments/assets/b6f9b380-02e9-4cac-8834-d7e697c4dc5d)
