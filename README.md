@@ -1,13 +1,12 @@
 # Optimizing ML models
 
-When it comes to minimizing costs in a business, what we need is an optimized model, so that the model is as effective as possible to achieve the business objective it has been built for.
+When it comes to minimizing costs in a business, what we need is an optimized business model. The right hyperparameter tuning technique impacts the model performance, and the model performing optimally is the one that helps achieve the business objective it's built for. The main techniques of tuning model hyperparameters for optimization are **random search**, **grid search**, and **Bayesian search**. 
 
-The main techniques of tuning hyperparameters of a model for optimization are **random search**, **grid search**, and **Bayesian search**. 
 Grid search systematically explores all combinations within a predefined grid, while random search randomly samples hyperparameters to cover a range of possibilities. An illustrative image is given below.
 
 ![1](https://github.com/user-attachments/assets/b6f9b380-02e9-4cac-8834-d7e697c4dc5d)
 
-The different techniques of optimization are discussed in **Chapter 9** of my book.
+The different techniques of optimization are discussed in **Chapter 9** of my book. The chapter's title is **exploring optimization techniqies** for machine learning.
 
 <img width="179" alt="0" src="https://github.com/user-attachments/assets/2303322f-e4e3-4636-b533-57b38a7ca9ed">
 
