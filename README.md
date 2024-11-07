@@ -6,14 +6,14 @@ Grid search systematically explores all combinations within a predefined grid, w
 
 ![1](https://github.com/user-attachments/assets/b6f9b380-02e9-4cac-8834-d7e697c4dc5d)
 
-The different techniques are discussed in **Chapter 9** of my book. The chapter's title is **exploring optimization techniqies** for machine learning.
+The different techniques are discussed in **Chapter 9** of my book. The chapter's title is **exploring optimization techniques** for machine learning.
 
 <img width="179" alt="0" src="https://github.com/user-attachments/assets/2303322f-e4e3-4636-b533-57b38a7ca9ed">
 
 Buy at Amazon: https://a.co/d/iRN1WK5
 
 The very premise of machine learning relies on a form of function optimization, so inputs can be most accurately mapped to expected output. 
-Bayesian optimization is best when the objective function is complex. This process keeps updating the hyperparameter configuration until an optimal point (global minimum) is reached in the search space.
+**Bayesian optimization** is best when the objective function is complex. This process keeps updating the hyperparameter configuration until an optimal point (global minimum) is reached in the search space.
 
 <img width="209" alt="1" src="https://github.com/user-attachments/assets/88535300-9262-4298-b93a-d27e7bba2752">
 
