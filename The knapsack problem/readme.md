@@ -14,3 +14,6 @@ This kind of a packing problem falls under **integer optimization**.
 https://developers.google.com/optimization/mip
 
 For more packing problems and their optimization, please refer: https://developers.google.com/optimization/pack
+
+The solution using PuLP : https://colab.research.google.com/drive/183pZfLgMNM9WsEJ84pi8mHxEmrs3MGVg
+
