@@ -1,4 +1,4 @@
-#Packing
+# Packing
 
 The goal of packing problems is to find an optimal way to pack a set of items of given sizes into containers with fixed capacities. 
 A typical application is loading boxes onto delivery trucks efficiently. It is not often possible to pack all the items, due to the capacity constraints. 
