@@ -9,7 +9,7 @@ In that case, the problem is to find a subset of the items with maximum total si
 <img width="179" alt="0" src="https://github.com/user-attachments/assets/2303322f-e4e3-4636-b533-57b38a7ca9ed">
 
 
-This kind of a packing problem falls under **integer optimization**. https://developers.google.com/optimization/mip
+This kind of a packing problem falls under **integer optimization** or integer linear programming. https://developers.google.com/optimization/mip
 
 
 For more packing problems and their optimization, please refer: https://developers.google.com/optimization/pack
