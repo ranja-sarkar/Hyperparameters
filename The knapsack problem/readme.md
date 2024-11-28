@@ -20,6 +20,6 @@ The knapsack data (excerpt from the book):
 <img width="407" alt="ksp" src="https://github.com/user-attachments/assets/76d4eb16-4bad-4446-ad86-78b404aa07ba">
 
 
-The solution notebook using PuLP (https://pypi.org/project/PuLP/) :-
+The solution using PuLP (https://pypi.org/project/PuLP/) has been shown in the book as well as in the colab notebook here ->
 https://colab.research.google.com/drive/183pZfLgMNM9WsEJ84pi8mHxEmrs3MGVg
 
