@@ -19,6 +19,8 @@ The very premise of machine learning relies on a form of function optimization, 
 
 <img width="62" alt="3" src="https://github.com/user-attachments/assets/cb96346e-1362-4c36-a7de-2372f95496ec">
 
+More about **Hyperparameter tuning in ML using Bayesian Optimization**: https://cloud.google.com/blog/products/ai-machine-learning/hyperparameter-tuning-cloud-machine-learning-engine-using-bayesian-optimization
+
 
 **Note**: The 'sonar' dataset is used for classification task. The 'auto-insurance' dataset is used for regression task. Look up the **codes** directory.
 
