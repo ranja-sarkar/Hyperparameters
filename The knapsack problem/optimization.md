@@ -52,6 +52,16 @@ Blog on LP in python: https://mlabonne.github.io/blog/posts/2022-03-02-Linear_Pr
 
 Portfolio optimization: https://www.cvxpy.org/examples/basic/quadratic_program.html
 
+Convex optimization: https://www.cvxpy.org/
+
+In my book (**chapter 4**), I have briefly touched upon convex functions and their optimization.
+
+Buy the book from Amazon: https://a.co/d/6U6Q6WT
+
+An excerpt from the book:
+
+<img width="402" alt="16" src="https://github.com/user-attachments/assets/34ae602c-6954-4c89-92d3-a737ab992bc2" />
+
 In general, QP in python: https://scaron.info/blog/quadratic-programming-in-python.html
 
 # NLP example
