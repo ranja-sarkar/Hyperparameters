@@ -34,6 +34,9 @@ Resource and time constraints are given by:
 <img width="353" alt="14" src="https://github.com/user-attachments/assets/9913411c-25df-48f5-90e0-0c1e5aa5d3f1" />
 
 
+x1 = #itmes of product A, x2 = #items of product B
 
+
+<img width="389" alt="15" src="https://github.com/user-attachments/assets/0bff54c7-e77b-4961-95e3-143b3753a6d4" />
 
 
