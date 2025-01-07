@@ -24,9 +24,12 @@ Optimization uses a rigorous mathematical model to determine the most efficient 
  4. A working day has a total of 8 hours.
 
 **Mathematical Formulation:**
-Objective function maximizes total sales
+
+Objective function maximizes total sales. 
 
 <img width="168" alt="13" src="https://github.com/user-attachments/assets/d225fbc3-289d-4983-8f5a-124f4b2d5e0e" />
+
+Resource and time constraints are given by:
 
 <img width="353" alt="14" src="https://github.com/user-attachments/assets/9913411c-25df-48f5-90e0-0c1e5aa5d3f1" />
 
