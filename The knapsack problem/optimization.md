@@ -39,6 +39,8 @@ x1 = #items of product A, x2 = #items of product B
 
 <img width="389" alt="15" src="https://github.com/user-attachments/assets/0bff54c7-e77b-4961-95e3-143b3753a6d4" />
 
+Blog on LP in python: https://mlabonne.github.io/blog/posts/2022-03-02-Linear_Programming.html
+
 
 # QP example
 
