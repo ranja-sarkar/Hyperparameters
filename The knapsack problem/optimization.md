@@ -62,3 +62,5 @@ In general, QP in python: https://scaron.info/blog/quadratic-programming-in-pyth
 
 Solving nonlinear optimization problems with multiple python libraries: https://github.com/marcelcases/nonlinear-optimization
 
+NLP in python: https://paulminogue.com/posts/a0d8c837-a40d-4b17-9d30-e0bd36a6befc
+
