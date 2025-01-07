@@ -46,5 +46,8 @@ Portfolio optimization: https://www.cvxpy.org/examples/basic/quadratic_program.h
 
 In general, QP in python: https://scaron.info/blog/quadratic-programming-in-python.html
 
+# NLP example
+
+<img width="425" alt="12" src="https://github.com/user-attachments/assets/3226387d-f786-4df7-a43a-b965595c6d87" />
 
 
