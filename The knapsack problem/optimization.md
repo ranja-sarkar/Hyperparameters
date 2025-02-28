@@ -1,10 +1,10 @@
-First things first - are we clear about gradient and Hessian??
+**First things first - are we clear about gradient and Hessian??**
 
-If not, here's the answer:
+**If not, here's the answer:**
 
 <img width="341" alt="gg" src="https://github.com/user-attachments/assets/d1b4a0f6-1608-457f-a58b-ce0bfcfa3711" />
 
-Examples to understand 1 vector and 2 matrices mentioned above:
+**Examples to understand 1 vector and 2 matrices, mentioned above:**
 
 <img width="566" alt="111" src="https://github.com/user-attachments/assets/bc5cec50-65ed-4dd1-b128-8e1addb64fac" />
 
