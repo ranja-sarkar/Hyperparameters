@@ -71,6 +71,8 @@ When we talk about convex and non-convex functions, we think of the **Hessian**.
 
 <img width="563" alt="11" src="https://github.com/user-attachments/assets/d2ddebdb-e5a9-49e8-b5cd-45ea0065f09d" />
 
+<img width="199" alt="pp" src="https://github.com/user-attachments/assets/85c5f867-00f3-4750-bc4e-7c63b06d87a9" />
+
 
 <img width="562" alt="22" src="https://github.com/user-attachments/assets/c2114793-4dd7-43df-b504-9019046439ad" />
 
