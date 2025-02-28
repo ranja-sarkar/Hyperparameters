@@ -56,7 +56,10 @@ Convex optimization: https://www.cvxpy.org/
 
 In my book (**chapter 4**), I have briefly touched upon convex functions and their optimization.
 
-Buy the book from Amazon: https://a.co/d/6U6Q6WT
+<img width="173" alt="rr" src="https://github.com/user-attachments/assets/60c42c5e-e9d8-4223-9b75-c5f7b356911e" />
+
+
+Buy from Amazon: https://a.co/d/6U6Q6WT
 
 An excerpt from the book:
 
