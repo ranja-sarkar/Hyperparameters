@@ -65,6 +65,13 @@ An excerpt from the book:
 
 <img width="402" alt="16" src="https://github.com/user-attachments/assets/34ae602c-6954-4c89-92d3-a737ab992bc2" />
 
+When we talk about convex and non-convex functions, we think of the **Hessian**. The Hessian matrix has two important utilities:
+- to know whether a function is concave or convex
+- to determine whether a critical point is a local minimum, a local maximum, or a saddle point [If the gradient of a function is zero at some point, that is f(x)=0, then function f has a critical point at x]
+
+  <img width="563" alt="11" src="https://github.com/user-attachments/assets/d2ddebdb-e5a9-49e8-b5cd-45ea0065f09d" />
+
+
 In general, QP in python: https://scaron.info/blog/quadratic-programming-in-python.html
 
 # NLP example
