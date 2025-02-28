@@ -1,3 +1,17 @@
+First things first - are we clear about gradient and Hessian??
+
+If not, here's the answer:
+
+<img width="341" alt="gg" src="https://github.com/user-attachments/assets/d1b4a0f6-1608-457f-a58b-ce0bfcfa3711" />
+
+Examples to understand 1 vector and 2 matrices mentioned above:
+
+<img width="566" alt="111" src="https://github.com/user-attachments/assets/bc5cec50-65ed-4dd1-b128-8e1addb64fac" />
+
+<img width="419" alt="222" src="https://github.com/user-attachments/assets/15dae48a-d29a-40a3-b5fd-7637cb8b55cb" />
+
+<img width="574" alt="333" src="https://github.com/user-attachments/assets/c5540b9c-e925-4307-bb65-8437720526eb" />
+
 
 # Classification of Optimization Problems
  
