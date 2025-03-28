@@ -1,6 +1,6 @@
 # Optimizing models
 
-When it comes to minimizing costs in a business, what we need is an optimized business model. The right hyperparameter tuning technique impacts the model performance, and the model performing optimally is the one that helps achieve the business objective it's built for. The main techniques of tuning model hyperparameters for optimization are **random search**, **grid search**, and **Bayesian search**. 
+When the business objective is minimizing cost, time, etc. we need an optimally performing model built for the business. For optimal performance, the model hyperparameters are tuned. The main techniques of tuning hyperparameters for optimization are **random search**, **grid search**, and **Bayesian search**. 
 
 Grid search systematically explores all combinations within a predefined grid, while random search randomly samples hyperparameters to cover a range of possibilities. 
 
@@ -23,10 +23,11 @@ Buy at Amazon: https://a.co/d/iRN1WK5
 
 
 
-
-
 More about **Hyperparameter tuning in ML using Bayesian Optimization**: https://cloud.google.com/blog/products/ai-machine-learning/hyperparameter-tuning-cloud-machine-learning-engine-using-bayesian-optimization
 
 
 **Note**: The 'sonar' dataset is used for classification task. The 'auto-insurance' dataset is used for regression task. Look up the **codes** directory.
+
+------
+
 
