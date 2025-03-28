@@ -1,4 +1,3 @@
-#Classification
 
 **Grid Search Object**
 
