@@ -43,7 +43,8 @@ Enterprise tools for hyperparameter tuning and model optimization:
 2. AWS Sagemaker by Amazon
 4. Azure ML by Microsoft
 
-More about **Hyperparameter tuning in the cloud**: 
+**Hyperparameter Tuning in the Cloud**: 
+
 https://cloud.google.com/blog/products/ai-machine-learning/hyperparameter-tuning-cloud-machine-learning-engine-using-bayesian-optimization   
 
 
