@@ -23,10 +23,6 @@ The different techniques are discussed in **Chapter 9** of my book. The chapter'
 Buy at Amazon: https://a.co/d/iRN1WK5
 
 
-
-More about **Hyperparameter tuning in ML using Bayesian Optimization**: https://cloud.google.com/blog/products/ai-machine-learning/hyperparameter-tuning-cloud-machine-learning-engine-using-bayesian-optimization
-
-
 **Note**: The 'sonar' dataset is used for classification task. The 'auto-insurance' dataset is used for regression task. Look up the **codes** directory.
 
 ------
@@ -47,4 +43,7 @@ Enterprise tools for hyperparameter tuning and model optimization:
 2. AWS Sagemaker by Amazon
 4. Azure ML by Microsoft
 
-   
+More about **Hyperparameter tuning in the cloud**: 
+https://cloud.google.com/blog/products/ai-machine-learning/hyperparameter-tuning-cloud-machine-learning-engine-using-bayesian-optimization   
+
+
