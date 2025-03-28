@@ -1,5 +1,5 @@
 
-**Grid search for regression**
+**Grid search Object**
 
 <img width="383" alt="0" src="https://github.com/user-attachments/assets/71abe3de-33ff-466f-a908-4da899753921">
 
