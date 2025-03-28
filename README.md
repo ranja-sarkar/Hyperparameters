@@ -4,6 +4,9 @@ When the business objective is minimizing cost, time, etc. we need an optimally 
 
 Grid search systematically explores all combinations within a predefined grid, while random search randomly samples hyperparameters to cover a range of possibilities. 
 
+The grid search technique is used to place the hyperparameters in a matrix-like structure or a parameter space/grid, and the model is trained on every combination of hyperparameter values. 
+While the grid search looks at every possible combination of hyperparameters, random search selects and tests a random combination of hyperparameter values. Th random search technique randomly samples from a grid of hyperparameters instead of conducting an exhaustive search making grid search an expensive one. We can also specify the number of total runs the random search should try.
+
 <img width="220" alt="ss" src="https://github.com/user-attachments/assets/b922c6b2-48af-4003-a965-fa884e47adda" />
 
 
@@ -21,13 +24,14 @@ Buy at Amazon: https://a.co/d/iRN1WK5
 
 
 
-
-
 More about **Hyperparameter tuning in ML using Bayesian Optimization**: https://cloud.google.com/blog/products/ai-machine-learning/hyperparameter-tuning-cloud-machine-learning-engine-using-bayesian-optimization
 
 
 **Note**: The 'sonar' dataset is used for classification task. The 'auto-insurance' dataset is used for regression task. Look up the **codes** directory.
 
 ------
+
+Tools for hyperparameter optimization
+
 
 
