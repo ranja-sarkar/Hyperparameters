@@ -1,5 +1,7 @@
 pandas== 
+numpy==
+scipy==
+
 sklearn==
-scipy== 
 skopt==
 
