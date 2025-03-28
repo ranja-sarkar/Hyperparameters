@@ -33,5 +33,18 @@ More about **Hyperparameter tuning in ML using Bayesian Optimization**: https://
 
 Tools for hyperparameter optimization
 
+1. Ray Tune
+2. Hyperopt
+3. Optuna
+4. Scikit-optimize (skopt)
+5. Scipy.optimize
+6. Neural Network Intelligence (NNI - an AutoML toolkit by Microsoft)
+   
+These are open-source. 
+Enterprise tools for hyperparameter optimization:
 
+1. Vertex AI Vizier by Google
+2. AWS Sagemaker by Amazon
+3. Azure ML by Microsoft
 
+   
