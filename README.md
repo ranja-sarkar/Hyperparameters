@@ -40,7 +40,7 @@ Open-source tools for hyperparameter optimization:
 5. Scipy.optimize
 6. Neural Network Intelligence (NNI - an AutoML toolkit by Microsoft): https://github.com/microsoft/nni
       
-Enterprise tools for hyperparameter optimization:
+Enterprise tools for hyperparameter tuning and model optimization:
 
 1. Vertex AI Vizier by Google: https://cloud.google.com/vertex-ai/docs/vizier/overview
    
