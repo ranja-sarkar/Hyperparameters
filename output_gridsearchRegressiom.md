@@ -1,4 +1,3 @@
-#Regression 
 
 **Grid search for regression**
 
