@@ -112,7 +112,9 @@ In general, QP in python: https://scaron.info/blog/quadratic-programming-in-pyth
 <img width="319" alt="14" src="https://github.com/user-attachments/assets/941d0c4b-eae0-4e0e-aa39-652db43717ea" />
 
 
-Solving nonlinear optimization problems with multiple python libraries: https://github.com/marcelcases/nonlinear-optimization
+Solving nonlinear optimization problems with multiple python libraries: 
 
-NLP in python: https://paulminogue.com/posts/a0d8c837-a40d-4b17-9d30-e0bd36a6befc
+https://github.com/marcelcases/nonlinear-optimization
+
+NLP with python: https://paulminogue.com/posts/a0d8c837-a40d-4b17-9d30-e0bd36a6befc
 
