@@ -14,7 +14,11 @@ Jacobian is a matrix of gradients of a vector field.
 
 
 # Classification of Optimization Problems
- 
+
+Optimization uses a rigorous mathematical model to determine the most efficient solution to a described problem. 
+
+One must first identify an objective function, a quantitative measure of the model examples of which are profit, cost, energy. The objective is subject to constraints such as resources, time. 
+
  1. **Linear Programming (LP)** ->  Objective function and constraints are both linear
  
  2. **Quadratic Programming (QP)** -> Objective function is quadratic and constraints are linear
@@ -24,9 +28,7 @@ Jacobian is a matrix of gradients of a vector field.
 <img width="410" alt="12" src="https://github.com/user-attachments/assets/4e9e2682-676f-4aeb-8b72-3a9af557bc6f" />
 
 
-Optimization uses a rigorous mathematical model to determine the most efficient solution to a described problem. 
 
-One must first identify an objective function, a quantitative measure of the model examples of which are profit, cost, energy. The objective is subject to constraints such as resources, time. 
 
 # LP example
 
