@@ -106,10 +106,7 @@ In general, QP in python: https://scaron.info/blog/quadratic-programming-in-pyth
 
 <img width="263" alt="13" src="https://github.com/user-attachments/assets/22536113-1712-47f4-bb63-b029f2e3083a" />
 
-**Quantile Regression**:
 
-
-<img width="319" alt="14" src="https://github.com/user-attachments/assets/941d0c4b-eae0-4e0e-aa39-652db43717ea" />
 
 
 Solving nonlinear optimization problems with multiple python libraries: 
