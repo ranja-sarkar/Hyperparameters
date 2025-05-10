@@ -1,6 +1,6 @@
 # Gradient & Hessian
 
-Gradient is the vector of first order derivatives of a scalar field.
+Gradient is the vector of first order derivatives of a scalar field. A gradient guides you with the direction in a landscape.
 
 <img width="566" alt="111" src="https://github.com/user-attachments/assets/bc5cec50-65ed-4dd1-b128-8e1addb64fac" />
 
