@@ -24,7 +24,9 @@ Jacobian is a matrix of gradients of a vector field.
 <img width="410" alt="12" src="https://github.com/user-attachments/assets/4e9e2682-676f-4aeb-8b72-3a9af557bc6f" />
 
 
-Optimization uses a rigorous mathematical model to determine the most efficient solution to a described problem. One must first identify an objective function which is a quantitative measure of the model performance. Examples: profit, cost, energy. The objective is subject to constraints for example, resource, time. 
+Optimization uses a rigorous mathematical model to determine the most efficient solution to a described problem. 
+
+One must first identify an objective function, a quantitative measure examples of which are profit, cost, energy. The objective is subject to constraints such as resources, time. 
 
 # LP example
 
