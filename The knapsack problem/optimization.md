@@ -1,6 +1,8 @@
-**First things first - are we clear about gradient and Hessian??**
+# Gradient & Hessian
 
-**If not, here's the answer:**
+Gradient is the vector of first order derivatives of a scalar field.
+
+Hessiam is a matrix of second order partial derivatives of a scaler field. 
 
 <img width="341" alt="gg" src="https://github.com/user-attachments/assets/d1b4a0f6-1608-457f-a58b-ce0bfcfa3711" />
 
