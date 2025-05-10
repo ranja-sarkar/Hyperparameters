@@ -4,7 +4,7 @@ Gradient is the vector of first order derivatives of a scalar field. A gradient 
 
 <img width="566" alt="111" src="https://github.com/user-attachments/assets/bc5cec50-65ed-4dd1-b128-8e1addb64fac" />
 
-Hessiam is a matrix of second order partial derivatives of a scaler field. 
+Hessiam is a matrix of second order partial derivatives of a scaler field. A Hessian not only guides, it also tells you if you're climbing, falling, or stuck in teh landscape.
 
 <img width="419" alt="222" src="https://github.com/user-attachments/assets/15dae48a-d29a-40a3-b5fd-7637cb8b55cb" />
 
