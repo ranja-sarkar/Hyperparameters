@@ -32,7 +32,7 @@ The [acquisition function](https://ekamperi.github.io/machine%20learning/2021/06
 Open-source tools for hyperparameter tuning:
 
 1. Ray Tune
-2. Hyperopt
+2. [Hyperopt](https://github.com/hyperopt/hyperopt)
 3. Optuna
 4. Scikit-optimize (skopt)
 5. Scipy.optimize (for gradient-based optimization)
@@ -43,9 +43,9 @@ Enterprise tools for hyperparameter tuning:
 
 1. [Vertex AI Vizier](https://cloud.google.com/vertex-ai/docs/vizier/overview) by Google
    
-2. AWS Sagemaker by Amazon
+2. [AWS Sagemaker by Amazon](https://docs.aws.amazon.com/sagemaker/latest/dg/automatic-model-tuning-how-it-works.html)
    
-3. Azure ML by Microsoft
+3. [Azure ML by Microsoft](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters?view=azureml-api-2)
 
 
 
