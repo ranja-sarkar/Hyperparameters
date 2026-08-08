@@ -35,7 +35,7 @@ Open-source tools for hyperparameter tuning:
 2. Hyperopt
 3. Optuna
 4. Scikit-optimize (skopt)
-5. Scipy.optimize
+5. Scipy.optimize (for gradient-based optimization)
 6. [Neural Network Intelligence](https://github.com/microsoft/nni) (NNI - an AutoML toolkit by Microsoft)
       
 Enterprise tools for hyperparameter tuning:
