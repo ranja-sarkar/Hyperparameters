@@ -1,6 +1,6 @@
-We need optimally performing models built for the business, when the business aims to minimize cost, time, etc. For optimal performance, the model parameters or so-called hyperparameters are tuned. The main techniques of optimization are **random search**, **grid search**, and **Bayesian search**. 
+We need optimally performing models built and maintained for a business, when the business aims to minimize cost, time, etc. The very premise of machine learning relies on a form of function optimization, so inputs can be most accurately mapped to expected output. 
 
-The very premise of machine learning relies on a form of function optimization, so inputs can be most accurately mapped to expected output. 
+For optimal performance, the model parameters or so-called hyperparameters are tuned. The main techniques of optimization are **random search**, **grid search**, and **Bayesian search**. 
 
 ---
 
