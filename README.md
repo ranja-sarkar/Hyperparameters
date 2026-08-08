@@ -21,7 +21,7 @@ The different techniques of hyperparameter tuning are discussed in part-III of m
 
 ----
 
-The essential ingredients of a Bayesian optimization algorithm are the surrogate model and the acquisition function. The surrogate model is often a Gaussian Process that can fit the observed data points and quantify the uncertainty of unobserved areas. We can define an acquisition function is one that provides a single measure of how useful it would be to try any given point, then we can find the point that maximizes this acquisition function and try it next.
+The essential ingredients of a Bayesian optimization algorithm are the surrogate model and the acquisition function. The surrogate model is often a Gaussian Process (GP) that can fit the observed data points and quantify the uncertainty of unobserved areas. We can define an acquisition function is one that provides a single measure of how useful it would be to try any given point, then we can find the point that maximizes this acquisition function and try it next.
 
 <img width="501" height="468" alt="bo" src="https://github.com/user-attachments/assets/7d3ef8ff-c5ff-4ea6-9d4b-7f77d8eb887f" />
 
@@ -45,8 +45,5 @@ Enterprise tools for hyperparameter tuning and model optimization:
 2. AWS Sagemaker by Amazon
 4. Azure ML by Microsoft
 
-**Hyperparameter Tuning in the Cloud**: 
-
-https://cloud.google.com/blog/products/ai-machine-learning/hyperparameter-tuning-cloud-machine-learning-engine-using-bayesian-optimization   
 
 
