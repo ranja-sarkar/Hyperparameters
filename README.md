@@ -25,6 +25,7 @@ The essential ingredients of a Bayesian optimization algorithm are the surrogate
 
 <img width="501" height="468" alt="bo" src="https://github.com/user-attachments/assets/7d3ef8ff-c5ff-4ea6-9d4b-7f77d8eb887f" />
 
+The [acquisition function](https://ekamperi.github.io/machine%20learning/2021/06/11/acquisition-functions.html) contains exploitation and exploration terms.
 
 ---
 
