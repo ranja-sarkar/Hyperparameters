@@ -29,7 +29,7 @@ The [acquisition function](https://ekamperi.github.io/machine%20learning/2021/06
 
 ---
 
-Open-source tools for hyperparameter optimization:
+Open-source tools for hyperparameter tuning:
 
 1. Ray Tune
 2. Hyperopt
@@ -38,12 +38,13 @@ Open-source tools for hyperparameter optimization:
 5. Scipy.optimize
 6. [Neural Network Intelligence](https://github.com/microsoft/nni) (NNI - an AutoML toolkit by Microsoft)
       
-Enterprise tools for hyperparameter tuning and model optimization:
+Enterprise tools for hyperparameter tuning:
 
-1. Vertex AI Vizier by Google: https://cloud.google.com/vertex-ai/docs/vizier/overview
+1. [Vertex AI Vizier](https://cloud.google.com/vertex-ai/docs/vizier/overview) by Google
    
 2. AWS Sagemaker by Amazon
-4. Azure ML by Microsoft
+   
+3. Azure ML by Microsoft
 
 
 
