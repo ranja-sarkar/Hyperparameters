@@ -17,10 +17,7 @@ The grid search technique is used to place the hyperparameters in a matrix-like 
 
 <img width="449" alt="bo" src="https://github.com/user-attachments/assets/460dc35b-300e-4aa2-90f7-284547ca3d07" />
 
-The different techniques of hyperparameter tuning are discussed in **Chapter 9** of my book. The chapter's title is **Exploring optimization techniques for machine learning**.
-
-
-**Note**: The 'sonar' dataset is used for classification task. The 'auto-insurance' dataset is used for regression task. Look up the **codes** directory.
+The different techniques of hyperparameter tuning are discussed in part-III of my [book](https://a.co/d/0bYEq8Qn). 
 
 ------
 
