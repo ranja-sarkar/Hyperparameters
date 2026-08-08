@@ -19,7 +19,11 @@ The grid search technique is used to place the hyperparameters in a matrix-like 
 
 The different techniques of hyperparameter tuning are discussed in part-III of my [book](https://a.co/d/0bYEq8Qn). 
 
-------
+----
+
+The essential ingredients of a Bayesian optimization algorithm are the surrogate model and the acquisition function. The surrogate model is often a Gaussian Process that can fit the observed data points and quantify the uncertainty of unobserved areas. We can define an acquisition function is one that provides a single measure of how useful it would be to try any given point, then we can find the point that maximizes this acquisition function and try it next in iterations.
+
+---
 
 Open-source tools for hyperparameter optimization:
 
@@ -28,7 +32,7 @@ Open-source tools for hyperparameter optimization:
 3. Optuna
 4. Scikit-optimize (skopt)
 5. Scipy.optimize
-6. Neural Network Intelligence (NNI - an AutoML toolkit by Microsoft): https://github.com/microsoft/nni
+6. [Neural Network Intelligence](https://github.com/microsoft/nni) (NNI - an AutoML toolkit by Microsoft)
       
 Enterprise tools for hyperparameter tuning and model optimization:
 
